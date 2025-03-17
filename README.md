@@ -1,0 +1,1 @@
+This repository features practical exercises on Data Structures, covering arrays, linked lists, stacks, queues, trees, graphs, and more. It offers hands-on coding to enhance understanding through real-world examples.
